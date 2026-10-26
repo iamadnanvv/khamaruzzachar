@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khamaruzz.example.com/sitemap.xml

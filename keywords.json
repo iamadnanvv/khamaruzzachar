@@ -1,0 +1,4730 @@
+[
+  {
+    "keyword": "Khamaruzz Nadan Achaar",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar online",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar website",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar price list",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar contact number",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar whatsapp order",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar instagram",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar Kerala",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar Kozhikode",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar review",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar original",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar authentic pickle brand",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Foods",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz pickle",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz achaar",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Kamarunneesa Firoz pickle brand",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz Nadan Achaar order online",
+    "category": "Branded",
+    "intent": "Navigational",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Mango Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Garlic Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Mixed Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Lemon Chilli Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Dates Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Fish Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Beef Pickle online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Chicken Kondattam online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "order Traditional Kondattam online",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam price in Kerala",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam online India",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam online shopping",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam best price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam 250g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam 500g price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam 1kg price",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam online store",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam for sale",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam shop near me",
+    "category": "Commercial",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Mango Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Garlic Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Mixed Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Lemon Chilli Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Dates Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Fish Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Beef Pickle",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Chicken Kondattam",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "order Traditional Kondattam",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam cash on delivery",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam whatsapp order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam bulk order",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam wholesale",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam gift pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam combo pack",
+    "category": "Transactional",
+    "intent": "Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Mango Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Mango Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Mango Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Garlic Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Garlic Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Garlic Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Mixed Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Mixed Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Mixed Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Lemon Chilli Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Lemon Chilli Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Lemon Chilli Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Dates Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Dates Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Dates Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Fish Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Fish Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Fish Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Beef Pickle at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Beef Pickle",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Beef Pickle recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Chicken Kondattam at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Chicken Kondattam",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Chicken Kondattam recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to make Traditional Kondattam at home",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam recipe",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam ingredients",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Traditional Kondattam",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam shelf life",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam health benefits",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam vs store bought",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Traditional Kondattam recipe Kerala",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam preparation method",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam history",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam nutrition",
+    "category": "Informational",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Mango Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Garlic Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Mixed Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Lemon Chilli Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Dates Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Fish Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Beef Pickle online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Chicken Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best authentic Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best traditional Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala style Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Kerala style Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best Nadan Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best spicy Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "tangy Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best tangy Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "handmade Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best handmade Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "no preservatives Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best no preservatives Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "farm fresh Traditional Kondattam online",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best farm fresh Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mango Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mango Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Garlic Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Garlic Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Mixed Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Mixed Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Lemon Chilli Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Lemon Chilli Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Dates Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Dates Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Fish Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Fish Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Beef Pickle in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Beef Pickle home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Chicken Kondattam in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Chicken Kondattam home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam in Kerala",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam in Kerala online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery Kerala",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam in Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam in Kozhikode online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery Kozhikode",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam in Malabar",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam in Malabar online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery Malabar",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam in South India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam in South India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery South India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam in India",
+    "category": "Long-tail",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Traditional Kondattam in India online",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "Traditional Kondattam home delivery India",
+    "category": "Long-tail",
+    "intent": "Local + Transactional",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Mango Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Mango Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Mango Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Mango Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Mango Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Mango Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Mango Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Mango Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Mango Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Mango Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Mango Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Mango Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Garlic Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Garlic Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Garlic Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Garlic Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Garlic Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Garlic Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Garlic Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Garlic Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Garlic Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Garlic Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Garlic Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Garlic Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Mixed Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Mixed Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Mixed Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Mixed Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Mixed Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Mixed Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Mixed Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Mixed Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Mixed Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Mixed Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Mixed Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Mixed Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Lemon Chilli Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Lemon Chilli Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Lemon Chilli Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Lemon Chilli Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Lemon Chilli Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Lemon Chilli Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Lemon Chilli Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Lemon Chilli Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Lemon Chilli Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Lemon Chilli Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Lemon Chilli Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Lemon Chilli Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Dates Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Dates Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Dates Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Dates Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Dates Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Dates Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Dates Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Dates Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Dates Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Dates Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Dates Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Dates Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Fish Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Fish Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Fish Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Fish Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Fish Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Fish Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Fish Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Fish Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Fish Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Fish Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Fish Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Fish Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Beef Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Beef Pickle made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Beef Pickle healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Beef Pickle last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Beef Pickle at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Beef Pickle authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Beef Pickle popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Beef Pickle be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Beef Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Beef Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Beef Pickle?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Beef Pickle homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Chicken Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Chicken Kondattam made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Chicken Kondattam healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Chicken Kondattam last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Chicken Kondattam at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Chicken Kondattam authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Chicken Kondattam popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Chicken Kondattam be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Chicken Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Chicken Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Chicken Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Chicken Kondattam homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what is Traditional Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how is Traditional Kondattam made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Traditional Kondattam healthy?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how long does Traditional Kondattam last?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how to store Traditional Kondattam at home?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what makes Traditional Kondattam authentic Kerala style?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "why is Traditional Kondattam popular in Kerala?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "can Traditional Kondattam be shipped across India?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how spicy is Traditional Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "what to eat with Traditional Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "how much oil is used in Traditional Kondattam?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "is Traditional Kondattam homemade or factory made?",
+    "category": "Question",
+    "intent": "Informational",
+    "language": "English"
+  },
+  {
+    "keyword": "pickle shop near me",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade pickle Kerala near me",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "Nadan achaar near me",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle store Kozhikode",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Kerala pickle Kozhikode",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "pickle delivery Kerala",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Kerala pickle online India wide delivery",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "Malabar style pickle near me",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional achaar shop Kerala",
+    "category": "Local",
+    "intent": "Local",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala homemade pickles online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic Nadan achaar online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "buy Kerala pickles online India",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "traditional Kerala pickle brands",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "best homemade pickle brand Kerala",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala achaar online store",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Malabar pickle online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "non-veg pickle Kerala online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "veg pickle Kerala online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle gift hamper",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle combo pack online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "DTDC pickle delivery India",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kondattam online Kerala",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "sun dried Kondattam Kerala",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "spicy Kerala Kondattam online",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle for NRI gifting",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "send Kerala pickle abroad",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle subscription",
+    "category": "Category",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "nadan achar online",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "veetil undakkiya achar",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "manga achar Kerala",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "veluthulli achar online",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "meen achar Kerala",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "beef achar Kerala",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "kozhi kondattam online",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "nadan kondattam",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "acharu Kerala online",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "kerala nadan acharu vilkkan",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "acharu online order Kerala",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "manga acharu vilakku",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "veluthulli acharu recipe",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "nadan meen achar recipe",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "kondattam undakkunna vidham",
+    "category": "Malayalam",
+    "intent": "Mixed",
+    "language": "Malayalam (transliterated)"
+  },
+  {
+    "keyword": "best Kerala pickle brand online",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Khamaruzz vs other pickle brands",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "authentic vs commercial pickle Kerala",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "pickle brand Kerala trusted",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "homemade pickle Kerala testimonials",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "Kerala pickle brand for gifting",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "genuine Kerala pickle without preservatives",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "which Kerala pickle brand is best",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  },
+  {
+    "keyword": "top rated Kerala achaar brand",
+    "category": "Buyer Intent",
+    "intent": "Commercial",
+    "language": "English"
+  }
+]
