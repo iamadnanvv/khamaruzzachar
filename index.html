@@ -23,6 +23,7 @@
     <link rel="icon" href="logo.png" type="image/png" />
     <link rel="apple-touch-icon" href="logo.png" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="ui-fixes.css" />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to main content</a>
@@ -42,8 +43,12 @@
           <a href="#products">Products</a>
           <a href="#about">About</a>
           <a href="#contact">Contact</a>
+          <button type="button" class="icon-button" data-open-favorites aria-label="Open favorites list">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21.35 10.55 20C5.4 15.36 2 12.28 2 8.5A4.5 4.5 0 0 1 6.5 4c1.74 0 3.41.81 4.5 2.09A6.13 6.13 0 0 1 15.5 4 4.5 4.5 0 0 1 20 8.5c0 3.78-3.4 6.86-8.55 11.5L12 21.35Z"/></svg>
+            <span class="fav-badge" id="favBadge" hidden>0</span>
+          </button>
           <button type="button" class="icon-button" data-open-cart aria-label="Open shopping cart">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2Zm10 0c-1.1 0-1.99.9-1.99 2S15.9 22 17 22s2-.9 2-2-.9-2-2-2ZM7.17 14h9.92c.75 0 1.41-.41 1.75-1.03L22 6H6.21l-.94-2H2v2h2l3.6 7.59-1.35 2.45C5.52 16.37 6.48 18 8 18h12v-2H8l1.1-2Z"/></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 18a2 2 0 1 1 0 4 2 2 0 0 1 0-4Zm10 0a2 2 0 1 1 0 4 2 2 0 0 1 0-4ZM6.2 6h14.3l-1.2 7.5a2 2 0 0 1-2 1.7H9.6a2 2 0 0 1-2-1.7L6.2 6Zm-1.1-2L4 4H2V2h3l.9 4.5 1.6 8.2A3.5 3.5 0 0 0 10.9 18h8.8v-2h-8.8a1.5 1.5 0 0 1-1.5-1.2L7.1 6Z"/></svg>
             <span class="cart-badge" id="cartBadge" hidden>0</span>
           </button>
           <a href="#contact" class="btn btn-primary btn-small">Order on WhatsApp</a>
@@ -61,6 +66,7 @@
         <a href="#products">Products</a>
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
+        <button type="button" class="nav-action" data-open-favorites>Favorites</button>
         <button type="button" class="nav-action" data-open-cart>Cart</button>
         <a href="#contact" class="btn btn-primary btn-block">Order on WhatsApp</a>
       </nav>
@@ -105,6 +111,7 @@
           <div class="product-grid">
             <article class="product-card" data-product="mango" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="mango" aria-label="Save Mango Pickle to favorites">♥</button>
                 <img src="mango.png" alt="Mango Pickle" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -112,7 +119,7 @@
                   <h3>Mango Pickle</h3>
                   <span class="product-tag">Best Seller</span>
                 </div>
-                <p>Traditional Kerala raw mango pickle with gingelly oil, spice, and a bold finish.</p>
+                <p class="product-desc">Traditional Kerala raw mango pickle with gingelly oil, spice, and a bold finish.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-mango">Select size for Mango Pickle</label>
                   <select id="size-mango" class="product-size" data-product="mango" aria-label="Select size for Mango Pickle">
@@ -136,6 +143,7 @@
 
             <article class="product-card" data-product="garlic" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="garlic" aria-label="Save Garlic Pickle to favorites">♥</button>
                 <img src="garlic.png" alt="Garlic Pickle" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -143,7 +151,7 @@
                   <h3>Garlic Pickle</h3>
                   <span class="product-tag">House Favourite</span>
                 </div>
-                <p>Whole garlic cloves in rich traditional masala and warm sesame oil.</p>
+                <p class="product-desc">Whole garlic cloves in rich traditional masala and warm sesame oil.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-garlic">Select size for Garlic Pickle</label>
                   <select id="size-garlic" class="product-size" data-product="garlic" aria-label="Select size for Garlic Pickle">
@@ -167,6 +175,7 @@
 
             <article class="product-card" data-product="dates" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="dates" aria-label="Save Dates Pickle to favorites">♥</button>
                 <img src="dates.png" alt="Dates Pickle" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -174,7 +183,7 @@
                   <h3>Dates Pickle</h3>
                   <span class="product-tag">Sweet & Tangy</span>
                 </div>
-                <p>Sweet, tangy dates with aromatic spice and Kerala depth.</p>
+                <p class="product-desc">Sweet, tangy dates with aromatic spice and Kerala depth.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-dates">Select size for Dates Pickle</label>
                   <select id="size-dates" class="product-size" data-product="dates" aria-label="Select size for Dates Pickle">
@@ -198,6 +207,7 @@
 
             <article class="product-card" data-product="chicken-kondattam" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="chicken-kondattam" aria-label="Save Chicken Kondattam to favorites">♥</button>
                 <img src="chicken-kondattam.png" alt="Chicken Kondattam" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -205,7 +215,7 @@
                   <h3>Chicken Kondattam</h3>
                   <span class="product-tag">Spicy</span>
                 </div>
-                <p>Fiery Kerala-style chicken kondattam, rich, punchy and delicious.</p>
+                <p class="product-desc">Fiery Kerala-style chicken kondattam, rich, punchy and delicious.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-chicken-kondattam">Select size for Chicken Kondattam</label>
                   <select id="size-chicken-kondattam" class="product-size" data-product="chicken-kondattam" aria-label="Select size for Chicken Kondattam">
@@ -229,6 +239,7 @@
 
             <article class="product-card" data-product="normal-kondattam" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="normal-kondattam" aria-label="Save Normal Kondattam to favorites">♥</button>
                 <img src="normal-kondattam.png" alt="Normal Kondattam" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -236,7 +247,7 @@
                   <h3>Normal Kondattam</h3>
                   <span class="product-tag">Classic</span>
                 </div>
-                <p>Traditional Kerala kondattam with a rich, homemade flavour and texture.</p>
+                <p class="product-desc">Traditional Kerala kondattam with a rich, homemade flavour and texture.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-normal-kondattam">Select size for Normal Kondattam</label>
                   <select id="size-normal-kondattam" class="product-size" data-product="normal-kondattam" aria-label="Select size for Normal Kondattam">
@@ -260,6 +271,7 @@
 
             <article class="product-card" data-product="chemmeen" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="chemmeen" aria-label="Save Chemmeen Achaar to favorites">♥</button>
                 <img src="chemmeen.png" alt="Chemmeen Achaar" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -267,7 +279,7 @@
                   <h3>Chemmeen Achaar</h3>
                   <span class="product-tag">Sea Fresh</span>
                 </div>
-                <p>Signature coastal prawn pickle with spice, aroma, and richness.</p>
+                <p class="product-desc">Signature coastal prawn pickle with spice, aroma, and richness.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-chemmeen">Select size for Chemmeen Achaar</label>
                   <select id="size-chemmeen" class="product-size" data-product="chemmeen" aria-label="Select size for Chemmeen Achaar">
@@ -290,6 +302,7 @@
 
             <article class="product-card" data-product="mix-fruits" data-reveal>
               <div class="product-image">
+                <button type="button" class="btn-favorite" data-favorite="mix-fruits" aria-label="Save Mix Fruits Achaar to favorites">♥</button>
                 <img src="mix-fruits.png" alt="Mix Fruits Achaar" loading="lazy" width="420" height="420" />
               </div>
               <div class="product-body">
@@ -297,7 +310,7 @@
                   <h3>Mix Fruits Achaar</h3>
                   <span class="product-tag">Seasonal</span>
                 </div>
-                <p>Colourful, lively, and packed with Kerala spirit and spice.</p>
+                <p class="product-desc">Colourful, lively, and packed with Kerala spirit and spice.</p>
                 <div class="product-meta">
                   <label class="sr-only" for="size-mix-fruits">Select size for Mix Fruits Achaar</label>
                   <select id="size-mix-fruits" class="product-size" data-product="mix-fruits" aria-label="Select size for Mix Fruits Achaar">
@@ -385,6 +398,21 @@
           </div>
 
           <form id="checkoutForm" class="checkout-form" novalidate>
+            <div id="formProductRow" class="form-row form-row-product">
+              <div class="form-group">
+                <label for="formProduct">Choose a pickle</label>
+                <select id="formProduct" name="formProduct">
+                  <option value="">Choose a pickle</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="formSize">Select size</label>
+                <select id="formSize" name="formSize" disabled>
+                  <option value="">Select product first</option>
+                </select>
+              </div>
+            </div>
+
             <div class="form-row">
               <div class="form-group">
                 <label for="fullName">Full Name</label>
@@ -429,7 +457,7 @@
       </section>
     </main>
 
-    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+    <aside class="side-drawer" id="cartDrawer" aria-hidden="true">
       <div class="drawer-header">
         <h2>Your cart</h2>
         <button type="button" class="drawer-close" aria-label="Close cart">×</button>
@@ -443,6 +471,14 @@
         <button type="button" class="btn btn-primary btn-block" id="cartCheckoutBtn" disabled>Checkout on WhatsApp</button>
         <button type="button" class="btn btn-secondary btn-block" id="clearCartBtn">Clear cart</button>
       </div>
+    </aside>
+
+    <aside class="side-drawer" id="favoritesDrawer" aria-hidden="true">
+      <div class="drawer-header">
+        <h2>Your favorites</h2>
+        <button type="button" class="drawer-close" aria-label="Close favorites">×</button>
+      </div>
+      <div class="drawer-body" id="favoritesItems"></div>
     </aside>
 
     <div class="drawer-overlay" id="drawerOverlay" hidden></div>
