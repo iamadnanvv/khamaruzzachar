@@ -1,7 +1,3 @@
-/**
- * Khamaruzz Naadan Achaar — Main E-commerce & Interactive Handler
- */
-
 (function () {
   "use strict";
 
@@ -9,41 +5,67 @@
   const STORAGE_CART = "khamaruzz_cart";
   const STORAGE_FAV = "khamaruzz_favorites";
 
+  function roundAmount(value) {
+    return Math.round((value + Number.EPSILON) * 100) / 100;
+  }
+
+  function buildWeightPrices(basePrice) {
+    return {
+      "250g": roundAmount(basePrice),
+      "500g": roundAmount(basePrice * 1.4),
+      "1kg": roundAmount(basePrice * 2.8)
+    };
+  }
+
   const PRODUCTS = {
     mango: {
       name: "Mango Pickle",
       image: "mango.png",
-      prices: { "250g": 249, "500g": 349, "1kg": 599 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 18, "500g": 12, "1kg": 6 }
     },
     garlic: {
       name: "Garlic Pickle",
       image: "garlic.png",
-      prices: { "250g": 269, "500g": 399, "1kg": 649 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 15, "500g": 10, "1kg": 5 }
     },
     dates: {
       name: "Dates Pickle",
       image: "dates.png",
-      prices: { "250g": 199, "500g": 349, "1kg": 649 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 12, "500g": 8, "1kg": 4 }
     },
     "chicken-kondattam": {
       name: "Chicken Kondattam",
       image: "chicken-kondattam.png",
-      prices: { "250g": 390, "500g": 590, "1kg": 990 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 10, "500g": 7, "1kg": 3 }
     },
     "normal-kondattam": {
       name: "Normal Kondattam",
       image: "normal-kondattam.png",
-      prices: { "250g": 120, "500g": 240, "1kg": 580 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 14, "500g": 10, "1kg": 5 }
     },
     chemmeen: {
       name: "Chemmeen Achaar",
       image: "chemmeen.png",
-      prices: { "500g": 450, "1kg": 890 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 8, "500g": 6, "1kg": 3 }
     },
     "mix-fruits": {
       name: "Mix Fruits Achaar",
       image: "mix-fruits.png",
-      prices: { "500g": 590 }
+      priceBase: 270,
+      prices: buildWeightPrices(270),
+      stock: { "250g": 9, "500g": 7, "1kg": 3 }
     }
   };
 
@@ -51,9 +73,27 @@
     Object.entries(PRODUCTS).map(([id, p]) => [p.name, id])
   );
 
-  /* ── Helpers ── */
   function formatPrice(amount) {
-    return "₹" + amount.toLocaleString("en-IN");
+    return "₹" + Number(amount).toLocaleString("en-IN");
+  }
+
+  function getProductPrice(productId, size) {
+    const product = PRODUCTS[productId];
+    if (!product) return 0;
+    const pricing = product.prices || {};
+    if (pricing[size] != null) return Number(pricing[size]);
+    const base = Number(product.priceBase || Object.values(pricing)[0] || 270);
+    if (size === "500g") return roundAmount(base * 1.4);
+    if (size === "1kg") return roundAmount(base * 2.8);
+    return roundAmount(base);
+  }
+
+  function getSelectedQty(card) {
+    const input = card?.querySelector(".qty-input");
+    if (!input) return 1;
+    const parsed = Number.parseInt(input.value, 10);
+    if (!Number.isFinite(parsed) || parsed < 1) return 1;
+    return Math.min(20, parsed);
   }
 
   function openWhatsApp(message) {
@@ -83,7 +123,6 @@
     return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   }
 
-  /* ── Cart ── */
   let cart = loadJson(STORAGE_CART, []);
 
   function saveCart() {
@@ -100,18 +139,20 @@
   function getCartSubtotal() {
     return cart.reduce((sum, item) => {
       const product = PRODUCTS[item.productId];
-      return sum + (product ? product.prices[item.size] * item.qty : 0);
+      return sum + (product ? getProductPrice(item.productId, item.size) * item.qty : 0);
     }, 0);
   }
 
   function addToCart(productId, size, qty = 1) {
     if (!PRODUCTS[productId] || !PRODUCTS[productId].prices[size]) return;
+    const stock = PRODUCTS[productId].stock?.[size] ?? Infinity;
+    const allowedQty = Math.min(Math.max(qty, 1), stock);
     const key = productId + "::" + size;
     const existing = cart.find((i) => i.key === key);
     if (existing) {
-      existing.qty += qty;
+      existing.qty = Math.min(existing.qty + allowedQty, stock || existing.qty + allowedQty);
     } else {
-      cart.push({ key, productId, size, qty });
+      cart.push({ key, productId, size, qty: allowedQty });
     }
     saveCart();
     showToast(PRODUCTS[productId].name + " (" + size + ") added to cart");
@@ -133,7 +174,6 @@
     showToast("Cart cleared");
   }
 
-  /* ── Favorites ── */
   let favorites = loadJson(STORAGE_FAV, []);
 
   function toggleFavorite(productId) {
@@ -150,14 +190,13 @@
     updateBadges();
   }
 
-  /* ── DOM refs ── */
   const header = document.getElementById("header");
   const cartBadge = document.getElementById("cartBadge");
   const favBadge = document.getElementById("favBadge");
   const cartDrawer = document.getElementById("cartDrawer");
   const favoritesDrawer = document.getElementById("favoritesDrawer");
   const drawerOverlay = document.getElementById("drawerOverlay");
-  const toastRoot = document.getElementById("toastRoot");
+  const toastRoot = document.getElementById("toast");
   const menuToggle = document.getElementById("menuToggle");
   const mobileNav = document.getElementById("mobileNav");
   const formProduct = document.getElementById("formProduct");
@@ -166,7 +205,6 @@
 
   let toastTimer = null;
 
-  /* ── UI updates ── */
   function updateBadges() {
     const count = getCartCount();
     if (cartBadge) {
@@ -236,21 +274,22 @@
     if (checkoutBtn) checkoutBtn.disabled = false;
 
     cartItemsEl.innerHTML = cart.map((item) => {
-      const p = PRODUCTS[item.productId];
-      if (!p) return "";
-      const itemPrice = p.prices[item.size] * item.qty;
+      const product = PRODUCTS[item.productId];
+      if (!product) return "";
+      const unitPrice = getProductPrice(item.productId, item.size);
+      const totalPrice = unitPrice * item.qty;
       return `
         <div class="cart-item">
           <div>
-            <h4>${p.name}</h4>
-            <p class="cart-item-meta">${item.size} — ${formatPrice(p.prices[item.size])}</p>
+            <h4>${product.name}</h4>
+            <p class="cart-item-meta">${item.size} — ${formatPrice(unitPrice)} each</p>
             <div class="cart-qty-controls">
               <button type="button" class="btn-qty" data-cart-dec="${item.key}" aria-label="Decrease quantity">−</button>
               <span>${item.qty}</span>
               <button type="button" class="btn-qty" data-cart-inc="${item.key}" aria-label="Increase quantity">+</button>
             </div>
           </div>
-          <strong class="cart-item-price">${formatPrice(itemPrice)}</strong>
+          <strong class="cart-item-price">${formatPrice(totalPrice)}</strong>
         </div>`;
     }).join("");
 
@@ -274,13 +313,13 @@
     }
 
     favItemsEl.innerHTML = favorites.map((pid) => {
-      const p = PRODUCTS[pid];
-      if (!p) return "";
-      const startPrice = Object.values(p.prices)[0];
+      const product = PRODUCTS[pid];
+      if (!product) return "";
+      const startPrice = getProductPrice(pid, Object.keys(product.prices)[0]);
       return `
         <div class="fav-item">
           <div>
-            <h4>${p.name}</h4>
+            <h4>${product.name}</h4>
             <p class="fav-item-meta">Starting at ${formatPrice(startPrice)}</p>
           </div>
           <button type="button" class="btn btn-outline btn-sm" data-fav-add="${pid}">Add to Cart</button>
@@ -290,18 +329,18 @@
     favItemsEl.querySelectorAll("[data-fav-add]").forEach((btn) => {
       btn.addEventListener("click", () => {
         const pid = btn.dataset.favAdd;
-        addToCart(pid, Object.keys(PRODUCTS[pid].prices)[0], 1);
+        const size = Object.keys(PRODUCTS[pid].prices)[0];
+        addToCart(pid, size, 1);
       });
     });
   }
 
-  /* ── Order form ── */
   function populateFormProducts() {
     if (!formProduct) return;
     const current = formProduct.value;
     formProduct.innerHTML =
       '<option value="">Choose a pickle</option>' +
-      Object.values(PRODUCTS).map((p) => `<option value="${p.name}">${p.name}</option>`).join("");
+      Object.values(PRODUCTS).map((product) => `<option value="${product.name}">${product.name}</option>`).join("");
     if (current && PRODUCT_BY_NAME[current]) formProduct.value = current;
   }
 
@@ -312,8 +351,15 @@
       formSize.disabled = true;
       return;
     }
-    formSize.innerHTML = Object.keys(PRODUCTS[productId].prices)
-      .map((s) => `<option value="${s}">${s}</option>`)
+
+    const product = PRODUCTS[productId];
+    formSize.innerHTML = Object.keys(product.prices)
+      .map((size) => {
+        const stock = product.stock?.[size] ?? Infinity;
+        const isDisabled = stock <= 0 ? "disabled" : "";
+        const label = `${size} — ${formatPrice(getProductPrice(productId, size))}`;
+        return `<option value="${size}" ${isDisabled}>${label}${stock <= 0 ? " (Out of stock)" : ""}</option>`;
+      })
       .join("");
     formSize.disabled = false;
   }
@@ -342,7 +388,6 @@
     }
   }
 
-  /* ── Mobile menu ── */
   function openMobileMenu() {
     if (!mobileNav || !menuToggle) return;
     mobileNav.classList.add("is-open");
@@ -372,7 +417,6 @@
     }
   }
 
-  /* ── Scroll effects ── */
   function initHeaderScroll() {
     if (!header) return;
     const onScroll = () => header.classList.toggle("is-scrolled", window.scrollY > 20);
@@ -406,7 +450,7 @@
 
   function initHeroParallax() {
     if (prefersReducedMotion()) return;
-    const heroImg = document.querySelector(".hero-img");
+    const heroImg = document.querySelector(".hero-image");
     if (!heroImg) return;
 
     window.addEventListener(
@@ -421,7 +465,6 @@
     );
   }
 
-  /* ── WhatsApp widget ── */
   function initWhatsAppWidget() {
     const widget = document.getElementById("widgetify-whatsapp");
     const popup = document.getElementById("widgetify-popup");
@@ -463,7 +506,6 @@
     });
   }
 
-  /* ── Init ── */
   document.addEventListener("DOMContentLoaded", () => {
     populateFormProducts();
     updateBadges();
@@ -478,40 +520,68 @@
     const yearEl = document.getElementById("year");
     if (yearEl) yearEl.textContent = new Date().getFullYear();
 
-    /* Size → price sync */
-    document.querySelectorAll(".size-select").forEach((select) => {
-      select.addEventListener("change", (e) => {
-        const pid = e.target.dataset.product;
-        const priceEl = document.querySelector('[data-price-for="' + pid + '"]');
-        if (priceEl && PRODUCTS[pid]) {
-          priceEl.textContent = formatPrice(PRODUCTS[pid].prices[e.target.value]);
-        }
+    document.querySelectorAll(".product-card").forEach((card) => {
+      const pid = card.dataset.product;
+      const select = card.querySelector(".product-size");
+      const priceEl = card.querySelector(".product-price");
+      const qtyInput = card.querySelector(".qty-input");
+      const minus = card.querySelector("[data-qty-minus]");
+      const plus = card.querySelector("[data-qty-plus]");
+
+      const updatePriceDisplay = () => {
+        if (!pid || !select || !priceEl) return;
+        const activeSize = select.value;
+        const unitPrice = getProductPrice(pid, activeSize);
+        priceEl.textContent = formatPrice(unitPrice);
+      };
+
+      select?.addEventListener("change", updatePriceDisplay);
+
+      minus?.addEventListener("click", () => {
+        const current = Number.parseInt(qtyInput?.value || "1", 10) || 1;
+        const next = Math.max(1, current - 1);
+        if (qtyInput) qtyInput.value = String(next);
       });
+
+      plus?.addEventListener("click", () => {
+        const current = Number.parseInt(qtyInput?.value || "1", 10) || 1;
+        const next = Math.min(20, current + 1);
+        if (qtyInput) qtyInput.value = String(next);
+      });
+
+      qtyInput?.addEventListener("input", () => {
+        if (!qtyInput.value) return;
+        const next = Math.min(20, Math.max(1, Number.parseInt(qtyInput.value, 10) || 1));
+        qtyInput.value = String(next);
+      });
+
+      updatePriceDisplay();
     });
 
-    /* Add to cart */
     document.querySelectorAll("[data-add-cart]").forEach((btn) => {
       btn.addEventListener("click", () => {
         const pid = btn.dataset.addCart;
-        const select = document.querySelector('.size-select[data-product="' + pid + '"]');
+        const card = btn.closest(".product-card");
+        const select = card?.querySelector(".product-size");
         const size = select ? select.value : Object.keys(PRODUCTS[pid].prices)[0];
-        addToCart(pid, size, 1);
+        const quantity = getSelectedQty(card);
+        addToCart(pid, size, quantity);
       });
     });
 
-    /* Per-product WhatsApp order */
     document.querySelectorAll(".product-order").forEach((btn) => {
       btn.addEventListener("click", () => {
         const pid = btn.dataset.product;
-        const select = document.querySelector('.size-select[data-product="' + pid + '"]');
+        const card = btn.closest(".product-card");
+        const select = card?.querySelector(".product-size");
         const size = select ? select.value : Object.keys(PRODUCTS[pid].prices)[0];
-        addToCart(pid, size, 1);
+        const quantity = getSelectedQty(card);
+        addToCart(pid, size, quantity);
         document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
         document.getElementById("fullName")?.focus({ preventScroll: true });
       });
     });
 
-    /* Default WhatsApp CTAs */
     document.querySelectorAll("[data-wa-default]").forEach((btn) => {
       btn.addEventListener("click", (e) => {
         e.preventDefault();
@@ -519,12 +589,10 @@
       });
     });
 
-    /* Favorites */
     document.querySelectorAll("[data-favorite]").forEach((btn) => {
       btn.addEventListener("click", () => toggleFavorite(btn.dataset.favorite));
     });
 
-    /* Drawers */
     document.querySelectorAll("[data-open-cart]").forEach((b) =>
       b.addEventListener("click", () => { renderCart(); openDrawer(cartDrawer); })
     );
@@ -545,7 +613,6 @@
       document.getElementById("fullName")?.focus({ preventScroll: true });
     });
 
-    /* Mobile menu */
     menuToggle?.addEventListener("click", toggleMobileMenu);
     mobileNav?.querySelectorAll("a").forEach((link) => {
       link.addEventListener("click", closeMobileMenu);
@@ -554,22 +621,15 @@
       btn.addEventListener("click", closeMobileMenu);
     });
 
-    /* Form */
     formProduct?.addEventListener("change", (e) => {
       populateFormSizes(PRODUCT_BY_NAME[e.target.value]);
       updateOrderFormMode();
     });
 
-    const orderForm = document.getElementById("orderForm");
+    const orderForm = document.getElementById("checkoutForm") || document.getElementById("orderForm");
     const trimmedRequiredFields = [
-      {
-        input: document.getElementById("fullName"),
-        message: "Please enter your full name."
-      },
-      {
-        input: document.getElementById("address"),
-        message: "Please enter your complete delivery address."
-      }
+      { input: document.getElementById("fullName"), message: "Please enter your full name." },
+      { input: document.getElementById("address"), message: "Please enter your complete delivery address." }
     ];
 
     trimmedRequiredFields.forEach(({ input }) => {
@@ -605,20 +665,24 @@
       if (notes) msg += "*Notes:* " + notes + "\n";
 
       if (cart.length > 0) {
-        msg += "\n*Cart Items:*\n" + cart.map((i) => {
-          const p = PRODUCTS[i.productId];
-          return "- " + p.name + " (" + i.size + ") x" + i.qty +
-            " — " + formatPrice(p.prices[i.size] * i.qty);
+        msg += "\n*Cart Items:*\n" + cart.map((item) => {
+          const product = PRODUCTS[item.productId];
+          const lineTotal = getProductPrice(item.productId, item.size) * item.qty;
+          return "- " + product.name + " (" + item.size + ") x" + item.qty +
+            " — " + formatPrice(lineTotal);
         }).join("\n");
         msg += "\n\n*Total Amount:* " + formatPrice(getCartSubtotal());
       } else if (formProduct?.value) {
-        msg += "\n*Selected Product:* " + formProduct.value + " (" + formSize.value + ")";
+        const selectedValue = formProduct.value;
+        const selectedSize = formSize?.value || "250g";
+        const product = PRODUCT_BY_NAME[selectedValue] ? PRODUCTS[PRODUCT_BY_NAME[selectedValue]] : null;
+        const basePrice = product ? getProductPrice(PRODUCT_BY_NAME[selectedValue], selectedSize) : 0;
+        msg += "\n*Selected Product:* " + selectedValue + " (" + selectedSize + ")\n*Unit Price:* " + formatPrice(basePrice);
       }
 
       openWhatsApp(msg);
     });
 
-    /* Keyboard & resize */
     document.addEventListener("keydown", (e) => {
       if (e.key === "Escape") {
         closeDrawers();
